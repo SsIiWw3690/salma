@@ -30,5 +30,3 @@
 🔎 :mag_right:	🔓 :unlock:	🔒 :lock:
 🔏 :lock_with_ink_pen:	🔐 :closed_lock_with_key:	🔑 :key:
 💡 :bulb:
-title: Demo notes repo
-theme: jekell-theme-midnight
