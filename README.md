@@ -31,7 +31,6 @@
 🔏 :lock_with_ink_pen:	🔐 :closed_lock_with_key:	🔑 :key:
 💡 :bulb:
 
-
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
