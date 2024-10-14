@@ -1,16 +1,18 @@
-•	!     Exclamation mark
-•	@     At symbol
-•	#     Hash or Pound sign
-•	$      Dollar sign  
-•	%       Percent sign  
-•	*       Asterisk
-•	()      Parentheses or Brackets
-•	-        Hyphen or Dash
-•	+         Plus signs
+!     Exclamation mark
+@     At symbol
+#     Hash or Pound sign
+$      Dollar sign  
+%       Percent sign  
+*       Asterisk
+()      Parentheses or Brackets
+-        Hyphen or Dash
++         Plus signs
 
 (kitchener.ctvnews.) (https://kitchener.ctvnews.ca/)
 (www.usatoday. )  (https://www.usatoday.com/)
-(www.cnet.com/science)    (https://www.cnet.com/science/meet-earths-new-mini-moon-before-it-vanishes/)
+(www.cnet.com/science)    (https://www.cnet.com/science/
+
+meet-earths-new-mini-moon-before-it-vanishes/)
 🎒 :school_satchel:	🎓 :mortar_board:	🎏 :flags:
  🎆 :fireworks:	🎇 :sparkler:	🎐 :wind_chime:
 🎑 :rice_scene:	🎃 :jack_o_lantern:	👻 :ghost:
@@ -41,3 +43,5 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+
+[CLI commands](docs/cli.md)
