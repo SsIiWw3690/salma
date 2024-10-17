@@ -2,7 +2,6 @@
 
 !     Exclamation mark
 @     At symbol
-#     Hash or Pound sign
 $      Dollar sign  
 %       Percent sign  
 *       Asterisk
