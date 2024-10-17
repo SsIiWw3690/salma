@@ -1,19 +1,24 @@
 # Number row characters
 
-!     Exclamation mark
-@     At symbol
-$      Dollar sign  
-%       Percent sign  
-*       Asterisk
-()      Parentheses or Brackets
--        Hyphen or Dash
-+         Plus signs
+! Exclamation mark
+@ At symbol
+$ Dollar sign  
+% Percent sign  
+* Asterisk
+() Parentheses or Brackets
+-  Hyphen or Dash
++  Plus signs
 
 #  Links
 
-(kitchener.ctvnews.) (https://kitchener.ctvnews.ca/)
-(www.usatoday. )  (https://www.usatoday.com/)
-(www.cnet.com/science)    (https://www.cnet.com/science/
+[Text Link](kitchener.ctvnews.) 
+[text link](https://kitchener.ctvnews.ca/)
+[Text LinK](www.usatoday. ) 
+[Text Link] (https://www.usatoday.com/)
+[Text Link](www.cnet.com/science) 
+[Text Link] (https://www.cnet.com/science/
+[Alt text] (https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#/media/File:Kheops-Pyramid.jpg)
+
 
 meet-earths-new-mini-moon-before-it-vanishes/)
 🎒 :school_satchel:	🎓 :mortar_board:	🎏 :flags:
