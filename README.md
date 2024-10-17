@@ -1,3 +1,4 @@
+#Number row characters
 !     Exclamation mark
 @     At symbol
 #     Hash or Pound sign
