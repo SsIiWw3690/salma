@@ -1,13 +1,13 @@
 # Number row characters
 
-! Exclamation mark 
-@ At symbol
-$ Dollar sign  
-% Percent sign  
-* Asterisk
-() Parentheses or Brackets
--  Hyphen or Dash
-+  Plus signs
+1-! Exclamation mark 
+2-@ At symbol 
+3-$ Dollar sign  
+4-% Percent sign  
+5-* Asterisk
+6-() Parentheses or Brackets
+7- - Hyphen or Dash
+8- + Plus signs
 
 #  Links
 
