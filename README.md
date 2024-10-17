@@ -1,6 +1,7 @@
 # Number row characters
 
-! Exclamation mark
+! Exclamation mark 
+
 @ At symbol
 $ Dollar sign  
 % Percent sign  
