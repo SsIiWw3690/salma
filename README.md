@@ -9,6 +9,8 @@ $      Dollar sign
 -        Hyphen or Dash
 +         Plus signs
 
+#  Links
+
 (kitchener.ctvnews.) (https://kitchener.ctvnews.ca/)
 (www.usatoday. )  (https://www.usatoday.com/)
 (www.cnet.com/science)    (https://www.cnet.com/science/
