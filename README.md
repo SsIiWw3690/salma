@@ -9,8 +9,8 @@
 7. & ampersand  
 8. \* Asterisk   
 9. \(\) Parentheses or Brackets  
-10. - Hyphen or Dash    
-11. + Plus signs  
+10. \- Hyphen or Dash  
+11. \+ Plus signs  
 
 
 #  Links
