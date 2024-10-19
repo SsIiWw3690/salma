@@ -22,9 +22,6 @@
     
     # Experiments  
 
-
-
-
 🎒 :school_satchel:	🎓 :mortar_board:	🎏 :flags:
  🎆 :fireworks:	🎇 :sparkler:	🎐 :wind_chime:
 🎑 :rice_scene:	🎃 :jack_o_lantern:	👻 :ghost:
