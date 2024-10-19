@@ -55,8 +55,7 @@ _**Shortcuts I would like to start using:**_
   
   
 
-[CLI commands](docs/cli.md)
+* [CLI commands](docs/cli.md)
 
 Add a page about CLI commands
-
 This is done as part of lab6
