@@ -14,14 +14,10 @@
 
 
 #  Links
-
-[Text Link](kitchener.ctvnews.)  
-[Text link](https://kitchener.ctvnews.ca/)  
-[Text LinK](www.usatoday.)  
-[Text Link](https://www.usatoday.com/)  
-[Text Link](www.cnet.com/science)  
-[Text Link](https://www.cnet.com/science/)  
-[Alt text](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#/media/File:Kheops-Pyramid.jpg)
+* [Kitchenerctv news](https://kitchener.ctvnews.ca/)  
+* [USA today](https://www.usatoday.com/)    
+* [C Net](https://www.cnet.com/science/)    
+* ![Pyramids](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#/media/File:Kheops-Pyramid.jpg)
 
 
 meet-earths-new-mini-moon-before-it-vanishes/)
