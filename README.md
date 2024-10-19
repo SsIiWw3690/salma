@@ -1,5 +1,4 @@
-# Number row characters
-## order list  
+# Number row characters 
 
 1. ! Exclamation mark  
 2. @ At symbol  
