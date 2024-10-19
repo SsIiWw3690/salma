@@ -53,9 +53,9 @@ _**Shortcuts I would like to start using:**_
 * Win-D (show desktop)
 * Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)  
   
-  
 
-* [CLI commands](docs/cli.md)
 
-Add a page about CLI commands
+[CLI commands](docs/cli.md)
+
+Add a page about CLI commands  
 This is done as part of lab6
