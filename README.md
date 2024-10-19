@@ -1,8 +1,8 @@
 # Number row characters
 ## order list  
 
-! Exclamation mark  
-@ At symbol  
+1. ! Exclamation mark  
+2. @ At symbol  
 \# hash tag    
 $ Dollar sign  
 \% Percent sign   
