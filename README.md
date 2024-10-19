@@ -17,7 +17,7 @@
 * [Kitchenerctv news](https://kitchener.ctvnews.ca/)  
 * [USA today](https://www.usatoday.com/)    
 * [C Net](https://www.cnet.com/science/)    
-* ![This is an alt text.](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#/media/File:Kheops-Pyramid.jpg)  
+* [Pyramid](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza#/media/File:Kheops-Pyramid.jpg)  
   
     
 # Experiments  
