@@ -2,15 +2,15 @@
 
 1. ! Exclamation mark  
 2. @ At symbol  
-\# hash tag    
-$ Dollar sign  
-\% Percent sign   
-^ carret  
-& ampersand  
-\* Asterisk  
-\(\) Parentheses or Brackets  
-- Hyphen or Dash  
-+ Plus signs  
+3. \# hash tag    
+4. $ Dollar sign  
+5. \% Percent sign  
+6. ^ carret  
+7. & ampersand  
+8. \* Asterisk   
+9. \(\) Parentheses or Brackets  
+10. - Hyphen or Dash    
+11. + Plus signs  
 
 
 #  Links
